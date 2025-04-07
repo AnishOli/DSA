@@ -4,22 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d89dcb9f-3021-48df-8bd8-cc6444cdd5e5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../../.vscode/settings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/firstProgram.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Anish/Inputs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Anish/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Anish/primitiveDataType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../happy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Lingma.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../out/production/DSA/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../out/production/DSA/Main.class" afterDir="false" />
+    <list default="true" id="d89dcb9f-3021-48df-8bd8-cc6444cdd5e5" name="Changes" comment="learn day 1">
+      <change afterPath="$PROJECT_DIR$/src/com/Anish/sum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Anish/Inputs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Anish/Inputs.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +22,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
@@ -48,6 +37,7 @@
   "keyToString": {
     "Application.Inputs.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.primitiveDataType.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "kotlin-language-version-configured": "true",
@@ -75,11 +65,32 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1744017867231</updated>
-      <workItem from="1744017868346" duration="2841000" />
+      <workItem from="1744017868346" duration="4470000" />
     </task>
+    <task id="LOCAL-00001" summary="learn day 1">
+      <option name="closed" value="true" />
+      <created>1744020776953</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1744020776953</updated>
+    </task>
+    <task id="LOCAL-00002" summary="learn day 1">
+      <option name="closed" value="true" />
+      <created>1744020917946</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1744020917946</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="learn day 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="learn day 1" />
   </component>
 </project>
